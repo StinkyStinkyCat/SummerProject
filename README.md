@@ -9,3 +9,7 @@ download vgg 19 with download.py
 
 download my model to the directory
 https://drive.google.com/file/d/1DsT6K5mPmU3SBSpSjYQTZt7Kk57U7bv3/view?usp=sharing
+
+NOTE
+
+The Mediapipe facial detection fails frequently. Besides make sure there is enough space between the face and the edge. Use try with FaceRipper.
